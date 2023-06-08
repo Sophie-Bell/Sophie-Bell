@@ -34,9 +34,4 @@ I'm full-time student 👨‍💻 getting her Bachelor in Data Science 🚀
 
 <br/>  
 
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=sophie-bell&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
-
 ----
