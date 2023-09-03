@@ -1,37 +1,37 @@
-### Hi, I'm Sophie 👋,   
-  
+# About Me
 
-I'm full-time student 👨‍💻 getting her Bachelor in Data Science 🚀  
-  
+Hello! 👋 I'm Sophie, a passionate and driven data science enthusiast currently working towards my Bachelor's degree in Data Science. Welcome to my GitHub profile! Here, you'll find a collection of projects and coursework that reflect my journey in the world of data.
 
-- 🌱 I’m currently learning Web Programming  
-  
+## 📚 Education
 
-- 🔭 I’m a student at Georgia State University  
-  
+- 🎓 Bachelor of Data Science Candidate, Georgia State University
+- 📅 Expected Graduation: December 2023.
 
-- 😀 Pronouns: She/Her  
-  
+## 🌟 Key Interests
 
-<br/>  
+- Data Analysis 📊
+- Machine Learning 🤖
+- Data Visualization 📈
+- Python 🐍
+- SQL 📜
+- Big Data 🌐
 
+## 📁 My Projects
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,photoshop,postgresql,python,git,java,tableau)](https://skillicons.dev)
+Feel free to explore some of my data-driven projects:
 
-<br/>  
+- [Project 1 Name](Project_1_Link) - Brief project description.
+- [Project 2 Name](Project_2_Link) - Brief project description.
+- [Project 3 Name](Project_3_Link) - Brief project description.
+- [Project 1 Name](Project_1_Link) - Brief project description.
+- [Project 2 Name](Project_2_Link) - Brief project description.
+- [Project 3 Name](Project_3_Link) - Brief project description.
 
-## Connect with me  
-<div align="left">
-<a href="https://www.linkedin.com/in/sophie-bell-b82396239/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/sophie-bell" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+Each project showcases my skills in data preprocessing, analysis, modeling, and visualization.
 
-<br/>  
+## 🌐 Connect with Me 
 
-----
+Let's connect and discuss all things data! Feel free to reach out to me on:
+
+- LinkedIn: [Sophia Bell](www.linkedin.com/in/sophie-bell-b82396239)
+- Email: sophia.bell@outlook.com
