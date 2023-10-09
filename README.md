@@ -20,8 +20,8 @@ Hello! 👋 I'm Sophie, a passionate and driven data science enthusiast currentl
 
 Feel free to explore some of my data-driven projects:
 
-- [Custsomer Segmentation and Analysis](https://github.com/Sophie-Bell/Customer-Segmentation-and-Analysis)
-- [Project 2 Name](Project_2_Link) - Brief project description.
+- [Customer Segmentation and Analysis](https://github.com/Sophie-Bell/Customer-Segmentation-and-Analysis)
+- [Predicting Coronary Heart Disease (CHD)](https://github.com/Sophie-Bell/Predicting-CHD/tree/main)
 - [Project 3 Name](Project_3_Link) - Brief project description.
 - [Project 1 Name](Project_1_Link) - Brief project description.
 - [Project 2 Name](Project_2_Link) - Brief project description.
