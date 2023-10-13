@@ -23,8 +23,8 @@ Feel free to explore some of my data-driven projects:
 - [Customer Segmentation and Analysis](https://github.com/Sophie-Bell/Customer-Segmentation-and-Analysis)
 - [Predicting Coronary Heart Disease (CHD)](https://github.com/Sophie-Bell/Predicting-CHD/tree/main)
 - [Insurance Claim Prediction and Analysis](Project_3_Link)
-- [A/B Testing on Marketing Campaign](https://github.com/Sophie-Bell/A-B-Testing)
-- [Project 2 Name](Project_2_Link)
+- [A/B Testing on a Marketing Campaign](https://github.com/Sophie-Bell/A-B-Testing)
+- [Restaurant Recommendation System](https://github.com/Sophie-Bell/Restaurant-Recommendation-)
 - [Project 3 Name](Project_3_Link)
 
 Each project showcases my skills in data preprocessing, analysis, modeling, and visualization.
