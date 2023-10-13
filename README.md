@@ -25,7 +25,7 @@ Feel free to explore some of my data-driven projects:
 - [Insurance Claim Prediction and Analysis](Project_3_Link)
 - [A/B Testing on a Marketing Campaign](https://github.com/Sophie-Bell/A-B-Testing)
 - [Restaurant Recommendation System](https://github.com/Sophie-Bell/Restaurant-Recommendation-)
-- [Project 3 Name](Project_3_Link)
+- [Sentiment Analysis on Sephora Reviews](https://github.com/Sophie-Bell/Sentiment-Analysis-on-Sephora-Reviews)
 
 Each project showcases my skills in data preprocessing, analysis, modeling, and visualization.
 
