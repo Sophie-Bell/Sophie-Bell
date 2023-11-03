@@ -20,7 +20,7 @@ Hello! 👋 I'm Sophie, a passionate and driven data science enthusiast currentl
 
 Feel free to explore some of my data-driven projects:
 
-- [Customer Segmentation and Analysis](https://github.com/Sophie-Bell/Customer-Segmentation-and-Analysis)
+- [Customer_Behavior_Analytics](https://github.com/Sophie-Bell/Customer_Behavior_Analytics/tree/main)
 - [Predicting Coronary Heart Disease (CHD)](https://github.com/Sophie-Bell/Predicting-CHD/tree/main)
 - [Insurance Claim Prediction and Analysis](https://github.com/Sophie-Bell/Insurance-Claim-Prediction-and-Analysis)
 - [A/B Testing on a Marketing Campaign](https://github.com/Sophie-Bell/A-B-Testing)
