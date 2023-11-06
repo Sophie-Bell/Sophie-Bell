@@ -22,7 +22,7 @@ Feel free to explore some of my data-driven projects:
 
 - [Customer_Behavior_Analytics](https://github.com/Sophie-Bell/Customer_Behavior_Analytics/tree/main)
 - [Predicting Coronary Heart Disease (CHD)](https://github.com/Sophie-Bell/Predicting-CHD/tree/main)
-- [Insurance Claim Prediction and Analysis](https://github.com/Sophie-Bell/Insurance-Claim-Prediction-and-Analysis)
+- [Travel Insurance Analysis](https://github.com/Sophie-Bell/Travel_Insurance_Analysis/tree/main)
 - [A/B Testing on a Marketing Campaign](https://github.com/Sophie-Bell/A-B-Testing)
 - [Restaurant Recommendation System](https://github.com/Sophie-Bell/Restaurant-Recommendation-)
 - [Sentiment Analysis on Sephora Reviews](https://github.com/Sophie-Bell/Sentiment-Analysis-on-Sephora-Reviews)
