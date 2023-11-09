@@ -26,6 +26,7 @@ Feel free to explore some of my data-driven projects:
 - [A/B Testing on a Marketing Campaign](https://github.com/Sophie-Bell/A-B-Testing)
 - [Comparing Digital Image Techniques on Brain Tumor MRI Scans](https://github.com/Sophie-Bell/Restaurant-Recommendation-)
 - [Sephora Recommendation System](https://github.com/Sophie-Bell/Sentiment-Analysis-on-Sephora-Reviews)
+- [Crime Data Management System](https://github.com/sophie210286/DBMS_Project)
 
 Each project showcases my skills in data preprocessing, analysis, modeling, and visualization.
 
