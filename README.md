@@ -1,11 +1,10 @@
 # About Me
 
-Hello! 👋 I'm Sophie, a passionate and driven data science enthusiast currently working towards my Bachelor's degree in Data Science. Welcome to my GitHub profile! Here, you'll find a collection of projects and coursework that reflect my journey in the world of data.
+Hello! 👋 I'm Sophie, a passionate and driven data science enthusiast and recent graduate with a Bachelor's degree in Data Science. Welcome to my GitHub profile! Here, you'll find a collection of projects and coursework that reflect my journey in the world of data.
 
 ## 📚 Education
 
-- 🎓 Bachelor of Data Science Candidate, Georgia State University
-- 📅 Expected Graduation: December 2023.
+- 🎓 Bachelor of Data Science | Georgia State University
 
 ## 🌟 Key Interests
 
@@ -18,7 +17,7 @@ Hello! 👋 I'm Sophie, a passionate and driven data science enthusiast currentl
 
 ## 📁 My Projects
 
-Feel free to explore some of my data-driven projects:
+Feel free to explore some of my **finished** data-driven projects that showcase my skills in data preprocessing, analysis, modeling, and visualization.
 
 - [Customer_Behavior_Analytics](https://github.com/Sophie-Bell/Customer_Behavior_Analytics/tree/main)
 - [Predicting Coronary Heart Disease (CHD)](https://github.com/Sophie-Bell/Predicting-CHD/tree/main)
@@ -28,7 +27,9 @@ Feel free to explore some of my data-driven projects:
 - [Sephora Recommendation System](https://github.com/Sophie-Bell/Sentiment-Analysis-on-Sephora-Reviews)
 - [Crime Data Management System](https://github.com/sophie210286/DBMS_Project)
 
-Each project showcases my skills in data preprocessing, analysis, modeling, and visualization.
+#### I am currently working on:
+- Building a comprehensive financial valuation dashboard that allows users to input company-specific data and perform valuation analyses using different methodologies
+
 
 ## 🌐 Connect with Me 
 
